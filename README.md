@@ -1,4 +1,4 @@
-# Free5GC_sctp_connection
+# READ ME (Free5GC_sctp_connection)
 code is configured by default to establish a connection between RAN and AMF of Free5GC using pysctp 
 
 #Requirements :
